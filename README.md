@@ -26,5 +26,5 @@ structure.
 CHALLENGE INSTRUCTION SCREENSHOT: 
 ![Screenshot](01-html-css-git-homework-demo.png)
 
-LINK TO DEPLOYED SITE:
+LINK TO DEPLOYED SITE:https://bdamota.github.io/Horiseon-Refractor/
 
