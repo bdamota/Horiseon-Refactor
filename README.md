@@ -24,7 +24,7 @@ structure.
 •	Repository contains quality README file with description, screenshot and link to deployed application. 
 
 CHALLENGE INSTRUCTION SCREENSHOT: 
-![Screenshot](01-html-css-git-homework-demo.png)
+https://github.com/github/{repository}/blob/assets/01-html-css-git-homework-demo.png 
 
 LINK TO DEPLOYED SITE:https://bdamota.github.io/Horiseon-Refractor/
 
