@@ -26,5 +26,5 @@ This is a project to refactor existing source code for Horiseon to accomplish th
 CHALLENGE INSTRUCTION SCREENSHOT: 
 https://github.com/bdamota/Horiseon-Refractor/blob/master/assets/Mock-Up/01-html-css-git-homework-demo.png
 
-LINK TO DEPLOYED SITE:https://bdamota.github.io/Horiseon-Refractor/
+LINK TO DEPLOYED SITE:https://bdamota.github.io/Horiseon-Refactor/
 
