@@ -1,17 +1,17 @@
-HORISEON REFRACTION PROJECT
+HORISEON REFACTORING PROJECT
 
 PROJECT DESCRIPTION:
-This is a project to refract existing source code for Horiseon to accomplish the following:
+This is a project to refactor existing source code for Horiseon to accomplish the following:
 •	Make the webpage meet accessibility standards.
-•	Make the HTML source code has correct semantics. 
-•	Make the structure of the HTML elements follow a logical structure of independent.
+•	Make the HTML source code have correct semantics. 
+•	Make the HTML elements follow a logical structure of independent
        styling and positioning.
 •	Make the images have accessible alt attributes.
 •	Make the heading attributes fall in sequential order. 
 •	Give the page a concise and descriptive title. 
 •	Make sure all links work correctly. 
 •	Consolidate CSS selectors and properties and organize them to follow a semantic 
-structure.  
+       structure.  
 •	Properly comment on CSS file. 
 •	Deploy a live URL. 
 •	Load application with no errors. 
