@@ -25,7 +25,7 @@ This is a project to refactor existing source code for Horiseon to accomplish th
 * HTML 
 * CSS
 
-## MOCKUP:
+## CHALLENGE INSTRUCTIONS MOCKUP:
 https://github.com/bdamota/Horiseon-Refractor/blob/master/assets/Mock-Up/01-html-css-git-homework-demo.png
 
 ## FINAL SCREENSHOT:
