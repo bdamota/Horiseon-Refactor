@@ -1,4 +1,4 @@
-# HORISEON REFACTORING PROJECT
+# HORISEON REFACTOR
 
 ## PROJECT DESCRIPTION:
 This is a project to refactor existing source code for Horiseon to accomplish the following:
