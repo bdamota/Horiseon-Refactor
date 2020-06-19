@@ -21,15 +21,15 @@ This is a project to refactor existing source code for Horiseon to accomplish th
 * Repository contains multiple descriptive commit messages. 
 * Repository contains quality README file with description, screenshot and link to deployed application. 
 
-## BUILT WITH 
+## BUILT WITH: 
 * HTML 
 * CSS
 
-## MOCKUP
+## MOCKUP:
 https://github.com/bdamota/Horiseon-Refractor/blob/master/assets/Mock-Up/01-html-css-git-homework-demo.png
 
-## FINAL SCREENSHOT
+## FINAL SCREENSHOT:
 
-## DEPLOYED SITE
+## DEPLOYED SITE:
 https://bdamota.github.io/Horiseon-Refactor/
 
